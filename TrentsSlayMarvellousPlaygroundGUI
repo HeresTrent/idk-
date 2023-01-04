@@ -96,13 +96,13 @@ local Section = Tab:NewSection("No cooldowns")
 
 
 Section:NewButton("Arm Twist", "No cooldown", function()
-loadstring(game:HttpGet("https://pastebin.com/raw/Xxack2xY"))()
+https://raw.githubusercontent.com/HeresTrent/ElArnTwist/main/ArmTwist
 end)
 
 
 
 Section:NewButton("Change to Eleven", "No cooldown", function()
-loadstring(game:HttpGet("https://pastebin.com/raw/1Vk5vSMt"))()
+https://raw.githubusercontent.com/HeresTrent/ChangeToEleven2/main/Change2El
 end)
 
 
@@ -110,7 +110,7 @@ end)
 
 
 Section:NewButton("Telekinetic Burst", "No cooldown", function()
-loadstring(game:HttpGet("https://pastebin.com/raw/nPuh6h1E"))()
+https://raw.githubusercontent.com/HeresTrent/AreaBurst/main/AreaBurst
 end)
 
 
